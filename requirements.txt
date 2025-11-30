@@ -1,0 +1,15 @@
+Flask
+requests
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+pydantic
+pdf2image
+Pillow
+numpy
+transformers
+onnxruntime
+torch
+huggingface-hub
+f5-tts
